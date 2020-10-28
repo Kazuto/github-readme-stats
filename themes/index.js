@@ -250,6 +250,12 @@ const themes = {
     icon_color: "89ddff",
     text_color: "27e8a7",
     bg_color: "242938"
+  },
+    kazuto: {
+    title_color: "FFFFFF",
+    icon_color: "FF9900",
+    text_color: "BFC5C9",
+    bg_color: "122230"
   }
 };
 
